@@ -108,7 +108,7 @@ This project is a comprehensive Smart Lock system that integrates IoT and embedd
 
 For detailed information about the project, refer to the project report:
 
-- **Project Report**: [Watch Here](https://anhtudev.works.pdf)
+- **Project Report**: [Watch Here](https://github.com/anhtu2808/Smart-Lock/blob/main/IOT102___Final_Project_Report.pdf)
 
 ## Troubleshooting
 
